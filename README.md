@@ -18,9 +18,9 @@
 
 | Section | What you'll find | Status |
 |---|---|---|
-| [`cheatsheets/`](cheatsheets/) | Commands and quick references, one per tool or domain | 🟢 Active |
-| [`notes/`](notes/) | Concepts explained in my own words | 🟢 Active |
-| [`templates/`](templates/) | The templates I use for write-ups and docs | 🟢 Active |
+| [`cheatsheets/`](cheatsheets/) | Commands and quick references, one per tool or domain | 🟡 Coming soon |
+| [`notes/`](notes/) | Concepts explained in my own words | 🟡 Coming soon |
+| [`templates/`](templates/) | The templates I use for write-ups and docs | 🟡 Coming soon |
 | `writeups/` | Labs, HTB Sherlocks (methodology only, no flags) and project summaries | 🟡 Coming soon |
 | `study/` | My study method and certification notes, once each cert is passed | 🔒 Locked |
 | `INDEX.md` | Index by technique, ippsec.rocks style | 🔒 Locked |
