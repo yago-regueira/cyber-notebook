@@ -1,4 +1,4 @@
-<h1 align="center">📒📔📕 cyber-notebook</h1>
+<h1 align="center">📒 cyber-notebook</h1>
 
 <p align="center">
   Learning DFIR in public — notes, cheatsheets and write-ups, built step by step.
