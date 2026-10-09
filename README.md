@@ -27,7 +27,8 @@
 
 ### 🌐 Language
 
-Notes are written in **Spanish 🇪🇸**. Repository docs are in **English 🇬🇧**.
+- **Spanish 🇪🇸:** notes, cheatsheets and exercises.
+- **English 🇬🇧:** write-ups and all repository docs (README, CONVENTIONS, CHANGELOG).
 
 ### 📜 Changelog & conventions
 
